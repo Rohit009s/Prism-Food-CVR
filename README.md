@@ -1,4 +1,4 @@
-
+ 
 # Prism-Food-CVR
 =======
 
@@ -83,9 +83,8 @@ JWT_SECRET=your-secret-key
 
 ## 🎯 Contributors
 👤 **Rohit Neelam**  
-🚀 Developed as part of the **CVR College of Engineering** project.
+🚀 Developed as part of own project by considering the **CVR College of Engineering** .
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 
